@@ -26,3 +26,6 @@ UIKit 主要包含以下功能：
    管理视图控制器转场（UIViewControllerAnimatedTransitioning）和全屏或部分屏幕内容呈现（UIPresentationController）。
 
 本 Pod 将基于系统功能做相关扩展支持
+
+Pod 依赖关系：
+作为通用层的基础组件，应尽量减少其他自定义仓库的依赖关系
