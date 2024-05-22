@@ -1,7 +1,7 @@
 # STUIKit
+
 用途：基础 UI 组件的扩展库
 技术栈：swift
-前缀：ST (Sweet Tiramisu)
 
 UIKit 主要包含以下功能：
 1. 控件：
