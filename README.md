@@ -1,9 +1,10 @@
 # STUIKit
 
 用途：基础 UI 组件的扩展库
+
 技术栈：swift
 
-UIKit 主要包含以下功能：
+UIKit 包含以下功能：
 1. 控件：
    包含按钮（UIButton）、标签（UILabel）、文本输入框（UITextField），以及更多的 UI 元素，用于构建交云用户界面。
 2. 视图和视图控制器：
