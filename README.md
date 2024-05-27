@@ -1,10 +1,10 @@
 # STUIKit
 
-用途：基础 UI 组件的扩展库
+#用途：基础 UI 组件的扩展库
 
-技术栈：swift
+#语言：swift
 
-UIKit 包含以下功能：
+#描述：该 Pod 基于系统 UIKit 做相关扩展支持，针对 UIKit 包含以下功能：
 1. 控件：
    包含按钮（UIButton）、标签（UILabel）、文本输入框（UITextField），以及更多的 UI 元素，用于构建交云用户界面。
 2. 视图和视图控制器：
@@ -26,12 +26,8 @@ UIKit 包含以下功能：
 10. 转场和呈现：
    管理视图控制器转场（UIViewControllerAnimatedTransitioning）和全屏或部分屏幕内容呈现（UIPresentationController）。
 
-本 Pod 将基于系统功能做相关扩展支持
 
-Pod 依赖关系：
-作为通用层的基础组件，应尽量减少其他自定义仓库的依赖关系
-
-
+#Pod 依赖关系：作为通用层的基础组件，应尽量减少其他自定义仓库的依赖关系
 ```mermaid
 graph TB
     UI("应用层/表示层")
