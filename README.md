@@ -2,7 +2,7 @@
 
 #用途：基础 UI 组件的扩展库
 
-#语言：swift
+#语言：swift、ObjC
 
 #描述：该 Pod 基于系统 UIKit 做相关扩展支持，针对 UIKit 包含以下功能：
 1. 控件：
