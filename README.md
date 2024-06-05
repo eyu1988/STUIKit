@@ -1,6 +1,6 @@
 # STUIKit
 
-#用途：基础 UI 组件的扩展库
+#用途：系统 UIKit 组件的扩展库
 
 #语言：Swift、Objc
 
