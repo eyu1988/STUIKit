@@ -2,7 +2,7 @@
 
 #用途：系统 UIKit 组件的扩展库
 
-#语言：Swift、Objc
+#语言：swift、objc
 
 #描述：基于系统 UIKit 做相关扩展支持，针对 UIKit 包含以下功能：
 1. 控件：
