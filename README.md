@@ -4,7 +4,7 @@
 
 #语言：swift、objc
 
-#描述：基于系统 UIKit 做相关扩展支持，针对 UIKit 包含以下功能：
+#描述：基于 UIKit 实现相关扩展支持，包含如下：
 1. 控件：
    包含按钮（UIButton）、标签（UILabel）、文本输入框（UITextField），以及更多的 UI 元素，用于构建交云用户界面。
 2. 视图和视图控制器：
