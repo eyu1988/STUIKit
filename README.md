@@ -22,7 +22,7 @@ graph TB
     UI("应用层/表示层")
     Service("业务层/域层")
     DataAccess("数据访问层/持久层")
-    BaseUtil("通用层/基础设施层\nSTUIKit")
+    BaseUtil("通用层/基础设施层\n(STUIKit)")
     UI --> Service
     Service --> DataAccess
     DataAccess --> BaseUtil
