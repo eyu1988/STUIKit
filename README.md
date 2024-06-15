@@ -16,7 +16,7 @@
 9. 弹出和警告：提供弹出框（UIAlertController）来显示通知、警告或从底部菜单进行选择。
 10. 转场和呈现：管理视图控制器转场（UIViewControllerAnimatedTransitioning）和全屏或部分屏幕内容呈现（UIPresentationController）。
 
-#Pod 依赖关系：作为通用层的基础组件，应尽量减少其他自定义仓库的依赖关系
+#Pod 依赖关系：作为通用层的基础组件，应减少其他自定义仓库的依赖关系
 ```mermaid
 graph TB
     UI("应用层/表示层")
