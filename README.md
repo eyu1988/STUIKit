@@ -2,7 +2,7 @@
 
 #用途：iOS UIKit 组件的扩展库
 
-#语言：swift、objc
+#语言：Swift、ObjC
 
 #描述：基于 UIKit 实现相关扩展支持，包含如下：
 1. 控件：包含按钮（UIButton）、标签（UILabel）、文本输入框（UITextField），以及更多的 UI 元素，用于构建交云用户界面。
