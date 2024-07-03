@@ -1,6 +1,6 @@
 # STUIKit
 
-#语言：Swift & ObjC
+#语言：Swift
 
 #用途：iOS UIKit 功能扩展的封装库，包含如下扩展，
 1.  控件：包含按钮（UIButton）、标签（UILabel）、文本输入框（UITextField），以及更多的 UI 元素，用于构建交云用户界面。
