@@ -2,7 +2,7 @@
 
 #语言：Swift
 
-#用途：iOS UIKit 功能扩展的封装库，包含如下扩展，
+#用途：iOS UIKit 功能扩展的封装库，包含如下扩展：
 1.  控件：包含按钮（UIButton）、标签（UILabel）、文本输入框（UITextField），以及更多的 UI 元素，用于构建交云用户界面。
 2.  视图和视图控制器：提供视图（UIView）和视图控制器（UIViewController）类以及它们的子类，用于管理应用程序的视图层次结构和事件响应。
 3.  触摸和手势处理：支持触摸（UITouch）事件以及各种手势识别（UIGestureRecognizer），比如点击、滑动、捏合、旋转等。
